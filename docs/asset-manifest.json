@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3a5fa45a.chunk.css",
+    "main.js": "./static/js/main.bf9a3cf2.chunk.js",
+    "main.js.map": "./static/js/main.bf9a3cf2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e2b91465.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e2b91465.js.map",
+    "static/js/2.1d4b9942.chunk.js": "./static/js/2.1d4b9942.chunk.js",
+    "static/js/2.1d4b9942.chunk.js.map": "./static/js/2.1d4b9942.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c6dd7732a4989d9572bfac97eb70711d.js": "./precache-manifest.c6dd7732a4989d9572bfac97eb70711d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.3a5fa45a.chunk.css.map": "./static/css/main.3a5fa45a.chunk.css.map",
+    "static/js/2.1d4b9942.chunk.js.LICENSE.txt": "./static/js/2.1d4b9942.chunk.js.LICENSE.txt",
+    "static/media/hey.mp3": "./static/media/hey.21f4f5d2.mp3",
+    "static/media/hey.jpg": "./static/media/hey.666cedd2.jpg",
+    "static/media/summer.jpg": "./static/media/summer.dfc438db.jpg",
+    "static/media/summer.mp3": "./static/media/summer.fd79b114.mp3",
+    "static/media/ukulele.mp3": "./static/media/ukulele.95698692.mp3",
+    "static/media/ukulele.jpg": "./static/media/ukulele.e44d7408.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2b91465.js",
+    "static/js/2.1d4b9942.chunk.js",
+    "static/css/main.3a5fa45a.chunk.css",
+    "static/js/main.bf9a3cf2.chunk.js"
+  ]
+}
